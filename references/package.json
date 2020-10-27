@@ -1,13 +1,13 @@
 {
-  "name": "testbackend",
+  "name": "projbackend",
   "version": "1.0.0",
-  "description": "my test playground",
-  "main": "index.js",
+  "description": "",
+  "main": "app.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "nodemon index.js"
+    "start": "nodemon app.js"
   },
-  "author": "Ravi Prakash",
+  "keywords": [],
+  "author": "",
   "license": "ISC",
   "dependencies": {
     "body-parser": "^1.19.0",
